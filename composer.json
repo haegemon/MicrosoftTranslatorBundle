@@ -13,9 +13,13 @@
         }
     ],
     "require": {
-        "matthiasnoback/microsoft-translator": "*",
+        "haegemon/microsoft-translator": "*",
         "symfony/framework-bundle": "2.*"
     },
+    "repositories": [{
+        "type": "vcs",
+        "url":  "https://github.com/haegemon/microsoft-translator"
+    }],
     "autoload": {
         "psr-0" : { "MatthiasNoback" : "src/" }
     }
