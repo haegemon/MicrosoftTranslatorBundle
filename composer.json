@@ -1,5 +1,5 @@
 {
-    "name": "matthiasnoback/microsoft-translator-bundle",
+    "name": "haegemon/microsoft-translator-bundle",
     "type": "symfony-bundle",
     "description": "Bundle for using the Microsoft Translator V2 API",
     "keywords": ["translate","Microsoft Translator", "Bing"],
