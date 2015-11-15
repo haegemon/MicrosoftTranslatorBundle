@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "haegemon/microsoft-translator": "*",
+        "haegemon/microsoft-translator": "dev-master",
         "symfony/framework-bundle": "2.*"
     },
     "repositories": [{
